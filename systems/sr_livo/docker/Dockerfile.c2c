@@ -1,0 +1,4 @@
+# Kleines Python-Image für den Kartenvergleich (scripts/c2c_scan.py): E57 lesen, KD-Baum, Plots.
+# Bauen:  docker build --network=host -t c2c -f docker/Dockerfile.c2c docker/
+FROM python:3.12-slim
+RUN pip install --no-cache-dir pye57==0.4.19 numpy==2.5.5 scipy==1.18.1 plyfile==1.1.5 matplotlib==3.11.2

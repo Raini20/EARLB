@@ -1,0 +1,36 @@
+=== traj_imu ===
+APE w.r.t. translation part (m)
+(with SE(3) Umeyama alignment)
+
+       max	0.224305
+      mean	0.092518
+    median	0.068567
+       min	0.014970
+      rmse	0.105658
+       sse	4.900814
+       std	0.051029
+
+=== traj_imu_fused ===
+APE w.r.t. translation part (m)
+(with SE(3) Umeyama alignment)
+
+       max	0.332745
+      mean	0.110704
+    median	0.097899
+       min	0.015578
+      rmse	0.126173
+       sse	10.793552
+       std	0.060534
+
+=== traj_imu_smoothed ===
+APE w.r.t. translation part (m)
+(with SE(3) Umeyama alignment)
+
+       max	0.346755
+      mean	0.097039
+    median	0.065673
+       min	0.006540
+      rmse	0.114624
+       sse	6.989730
+       std	0.061009
+

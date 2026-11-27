@@ -1,0 +1,99 @@
+# SR-LIVO – Konfiguration für Hilti SLAM Challenge 2022, Exp14 (exp14_basement_2)
+# Vorlage: config/ntu.yaml aus ZikangYuan/sr_livo (Commit 97a2666)
+# Quellen der Werte: calibration/calibration_files/{lidar_calibration.yaml, calib_3_cam0-1-camchain-imucam.yaml}
+# Topics, Felder und Einheiten mit scripts/check_bag.sh geprüft (siehe README, Abschnitt "Datencheck").
+
+common:
+    lidar_topic:  "/hesai/pandar"                 # 740 Msgs, 10 Hz
+    imu_topic:    "/alphasense/imu"               # 29539 Msgs, 400 Hz, m/s^2
+    # cam0 = vordere Kamera (Kalibr-Datei). Original 40 Hz, im Launch per topic_tools/drop auf 10 Hz
+    # reduziert, damit jeder SR-LIVO-Frame eine volle LiDAR-Umdrehung enthält (siehe Run 2).
+    image_topic:  "/alphasense/cam0/image_10hz"
+    image_type:   RGB8                            # sensor_msgs/Image (mono8 wird von cv_bridge nach BGR8 konvertiert)
+    point_filter_num: 1
+    time_sync_en: false
+    # Nur der Betrag zählt: SR-LIVO initialisiert die Gravitationsrichtung aus der mittleren Beschleunigung.
+    # (Alphasense-IMU-z zeigt im Stillstand nach unten, a_z ~ -9.67 – unkritisch.)
+    gravity_acc: [ 0.0, 0.0, 9.81 ]
+
+lidar_parameter:
+    # SR-LIVO kennt: 1 LIVOX, 2 VELO (float time), 3 OUST (uint32 t), 4 ROBO (double timestamp + ring).
+    # Hesai-Felder im Bag: x y z intensity(float32) timestamp(float64, abs. Unix-s) ring(uint16) -> ROBO.
+    # ROBO: relative Zeit = (timestamp - timestamp erster Punkt); erster Punkt ist geprüft der früheste
+    # und == header.stamp, Spanne 0.1 s. intensity ist bei ROBO uint8 -> PCL-Warnung "Failed to find
+    # match for field 'intensity'", Intensität wird für die Odometrie nicht verwendet.
+    lidar_type: 4
+    N_SCANS: 32
+    SCAN_RATE: 10
+    time_unit: 0               # 0 s, 1 ms, 2 us, 3 ns – Hesai-timestamp in Sekunden
+    blind: 0.5                 # m, Punkte näher als das (Gerät/Person) verwerfen
+    fov_degree: 360
+    det_range: 100.0
+
+imu_parameter:
+    acc_cov: 0.1
+    gyr_cov: 0.1
+    b_acc_cov: 0.0001
+    b_gyr_cov: 0.0001
+    time_diff_enable: false
+
+camera_parameter:
+    # cam0, Kalibr: pinhole + equidistant (Fisheye). SR-LIVO erwartet radtan [k1 k2 p1 p2 k3].
+    # Die equidistant-Koeffizienten sind damit nicht kompatibel -> auf 0 gesetzt (reines Pinhole).
+    # Wirkt sich nur auf das Einfärben der Karte aus, nicht auf die Trajektorie.
+    image_width: 720
+    image_height: 540
+    camera_intrinsic: [ 351.31400364193297, 0.0, 367.8522793375995,
+                        0.0, 351.4911744656785, 253.8402144980996,
+                        0.0, 0.0, 1.0 ]
+    camera_dist_coeffs: [ 0.0, 0.0, 0.0, 0.0, 0.0 ]
+
+extrinsic_parameter:
+    extrinsic_enable: false
+    # T_imu_lidar (Punkt im LiDAR-Frame -> IMU-Frame), aus lidar_calibration.yaml:
+    # q_xyzw = [0.7071068, -0.7071068, 0, 0], t = [-0.001, -0.00855, 0.055]
+    extrinsic_t_imu_lidar: [ -0.001, -0.00855, 0.055 ]
+    extrinsic_R_imu_lidar: [  0, -1,  0,
+                             -1,  0,  0,
+                              0,  0, -1 ]
+    # T_imu_camera = inv(T_cam_imu) von cam0 (SR-LIVO: R_world_cam = R_world_imu * R_imu_camera)
+    extrinsic_t_imu_camera: [ 0.051263550, 0.045390122, -0.013214913 ]
+    extrinsic_R_imu_camera: [  0.006708021,  0.002425644,  0.999974559,
+                               0.999926420,  0.010091197, -0.006732177,
+                              -0.010107270,  0.999946141, -0.002357773 ]
+
+# Innenraum-Profil (Run 4): NTU-Werte (draußen) ergeben im Treppenhaus (~4 x 9 x 3 m, r_med 2.7 m)
+# nur wenige Dutzend Keypoints -> < 20 Residuen -> ICP scheitert (Run 3: 684/701 Frames).
+odometry_options:
+    init_voxel_size: 0.1           # Default 0.2
+    init_sample_voxel_size: 0.5    # Default 1.0
+    voxel_size: 0.1
+    sample_voxel_size: 0.5         # NTU 1.5
+    max_distance: 2000.0
+    max_num_points_in_voxel: 20
+    init_num_frames: 20
+    min_distance_points: 0.05      # NTU 0.15
+    distance_error_threshold: 100.0
+    motion_compensation: CONSTANT_VELOCITY   # IMU, CONSTANT_VELOCITY
+    initialization: INIT_IMU                 # INIT_IMU, INIT_CONSTANT_VELOCITY
+
+icp_options:
+    size_voxel_map: 0.5            # NTU 1.0
+    num_iters_icp: 5
+    min_number_neighbors: 20
+    voxel_neighborhood: 1
+    max_number_neighbors: 20
+    max_dist_to_plane_icp: 0.3     # NTU-Config hieß "..._ct_icp" -> vom Code ignoriert (Default ebenfalls 0.3)
+    threshold_orientation_norm: 0.1
+    threshold_translation_norm: 0.01
+    debug_print: true          # Run 2: Diagnose, ob der ICP scheitert (Drift in Run 1)
+    num_closest_neighbors: 1
+    min_num_residuals: 200
+    max_num_residuals: 600
+
+map_options:
+    size_voxel_map: 0.1
+    max_num_points_in_voxel: 50
+    min_distance_points: 0.01
+    add_point_step: 1
+    pub_point_minimum_views: 1

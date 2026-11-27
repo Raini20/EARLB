@@ -1,0 +1,40 @@
+# Was pro Lauf ins Repo gehoert, legt der Ausgabevertrag der Gruppe fest:
+#   traj_imu.tum, ape.zip, rpe_trans.zip, rpe_rot.zip, run.md
+# dazu t_offset.txt und die Ausgaben von common/eval/evaluate.sh (evo_traj.txt, ape.txt,
+# rpe_*.txt, traj_xy.pdf; so macht es auch SR-LIVO). Alles andere ist Zwischenprodukt
+# oder Beleg und bleibt draussen.
+
+# Grosse Zwischenprodukte: aus map.simplemap laesst sich map.ply jederzeit neu rendern
+*.simplemap
+*.mm
+*_Images/
+results/**/mola.log
+results/**/map_full*.ply
+
+# Karte und Variantenvergleich nur aus run_1, dem Lauf des Ausgabevertrags.
+# run_2..run_4 und run_docker existieren nur fuer die Determinismus-Tabelle in README.md;
+# ihre Karten (je ~15 MB) und Varianten belegen nichts, was run_1 nicht schon belegt.
+results/exp14/run_*/map.ply
+results/exp14/run_*/traj_imu_fused.tum
+results/exp14/run_*/traj_imu_smoothed.tum
+results/exp14/run_*/variants_ate.txt
+results/exp14/run_*/sm2mm_exp14.rendered.yaml
+!results/exp14/run_1/map.ply
+!results/exp14/run_1/traj_imu_fused.tum
+!results/exp14/run_1/traj_imu_smoothed.tum
+!results/exp14/run_1/variants_ate.txt
+!results/exp14/run_1/sm2mm_exp14.rendered.yaml
+
+# Terminalausgaben und Plot von common/eval/evaluate.sh: im Referenzlauf run_1 wie bei
+# den anderen Systemen, in den Wiederholungslaeufen nur Ballast (die Zahlen stehen in den .zip).
+results/exp14/run_*/ape.txt
+results/exp14/run_*/rpe_*.txt
+results/exp14/run_*/evo_traj.txt
+results/exp14/run_*/traj_xy.pdf
+!results/exp14/run_1/ape.txt
+!results/exp14/run_1/rpe_*.txt
+!results/exp14/run_1/evo_traj.txt
+!results/exp14/run_1/traj_xy.pdf
+
+# Sicherungskopien der handgeschriebenen run.md (run_exp14.sh legt sie beim Ueberschreiben an)
+results/**/run.md.bak.*

@@ -1,0 +1,25 @@
+<launch>
+  <!-- SR-LIVO auf Hilti 2022 Exp14 (Hesai PandarXT-32 + Alphasense cam0 + BMI085). Vorlage: livo_ntu.launch -->
+
+  <arg name="rviz"        default="true" />
+  <arg name="config"      default="$(dirname)/../config/hilti_exp14.yaml" />
+  <arg name="output_path" default="$(dirname)/../output" />
+
+  <param name="use_sim_time" value="true" />
+
+  <!-- cam0 von 40 Hz auf 10 Hz (3 von 4 Bildern verwerfen). SR-LIVO schneidet LiDAR-Frames an den
+       Bildzeitpunkten: bei 40 Hz enthält jeder Frame nur einen 90°-Sektor des rotierenden Hesai,
+       der nicht mit der Karte überlappt -> ICP mit 0 Residuen (Run 2). Bei 10 Hz = 1 volle Umdrehung. -->
+  <node pkg="topic_tools" type="drop" name="cam0_drop"
+        args="/alphasense/cam0/image_raw 3 4 /alphasense/cam0/image_10hz" />
+
+  <rosparam command="load" file="$(arg config)" />
+
+  <param name="debug_output" type="bool" value="0" />
+  <param name="output_path" type="string" value="$(arg output_path)" />
+  <node pkg="sr_livo" type="livo_node" name="livo_node" output="screen" required="true" />
+
+  <group if="$(arg rviz)">
+    <node launch-prefix="nice" pkg="rviz" type="rviz" name="rviz" args="-d $(find sr_livo)/rviz_cfg/visualization.rviz" />
+  </group>
+</launch>

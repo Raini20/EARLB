@@ -1,0 +1,5 @@
+# Shell- und Python-Skripte immer mit LF (sonst laufen sie im Linux-Container nicht)
+*.sh   text eol=lf
+*.py   text eol=lf
+*.yaml text eol=lf
+*.patch text eol=lf

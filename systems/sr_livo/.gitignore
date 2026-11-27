@@ -1,0 +1,13 @@
+# Rohdaten und große Dateien
+data/
+*.bag
+*.bag.part
+output/
+
+# Karten: .pcd bleibt lokal, nur ausgedünnte map.ply wird (ggf. via LFS) committet
+*.pcd
+
+# evo / Python
+__pycache__/
+*.pyc
+map_gt_aligned.ply

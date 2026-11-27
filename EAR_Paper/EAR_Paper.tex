@@ -1,0 +1,181 @@
+\documentclass[conference]{IEEEtran}
+\IEEEoverridecommandlockouts
+\usepackage{cite}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{algorithmic}
+\usepackage{graphicx}
+\usepackage{textcomp}
+\usepackage{xcolor}
+\usepackage{subcaption}
+\usepackage{booktabs}
+\usepackage{url}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+% Platzhalter sichtbar markieren; vor der Abgabe muss \todo{} leer sein
+\newcommand{\todo}[1]{\textcolor{red}{[#1]}}
+\begin{document}
+
+\definecolor{twblue}{HTML}{1f497d}
+\definecolor{structure}{HTML}{1f497d}
+
+\title{Comparative Evaluation of Visual, LiDAR and LiDAR-Inertial-Visual SLAM on the Hilti-Oxford Exp14 Sequence}
+\author{\IEEEauthorblockN{Felix \todo{Nachname}, Merle \todo{Nachname}, Rainhard \todo{Nachname}, Victor Swekis}
+\IEEEauthorblockA{FH Technikum Wien, Einsatz Autonomer Robotersysteme Lab}
+}
+
+\maketitle
+
+\begin{abstract}
+\todo{Context: why accurate SLAM matters for autonomous robots in construction environments.}
+\todo{Problem: four SLAM systems with different sensor modalities (OpenMAVIS, MOLA-LO, KISS-SLAM, SR-LIVO) are compared on one handheld sequence.}
+\todo{Method: Hilti-Oxford Exp14, common output contract, SE(3)-aligned ATE, RPE over 1\,m, cloud-to-cloud map error.}
+\todo{Results: key quantitative findings.}
+\todo{Conclusion: interpretation and limitations (ground-truth accuracy 1--2\,cm, short sequence).}
+\end{abstract}
+
+\section{Introduction}
+Autonomous robots on construction sites have to localise themselves in environments that
+offer little of what SLAM systems rely on: corridors with repeating geometry, rooms behind
+doors that open and close, staircases, and surfaces that are either featureless or highly
+reflective. Accuracy requirements there are set by the task, not by the algorithm --- as-built
+documentation and layout work are specified in centimetres, so a drift of a few decimetres
+over a single storey already makes a map unusable. Which sensor modality delivers that
+accuracy is not obvious from the literature, because published results are rarely obtained
+on the same data with the same metrics.
+
+Comparisons across modalities are hard for a mundane reason: the systems do not agree on what
+they output. A visual-inertial system reports the camera or IMU pose, a LiDAR system the
+sensor pose, at different rates, in different frames, with different time bases. Differences
+introduced by that bookkeeping can easily exceed the differences between the algorithms.
+
+This work therefore compares four SLAM systems of three modalities --- OpenMAVIS
+(visual-inertial), MOLA-LO (LiDAR odometry), KISS-SLAM (LiDAR) and SR-LIVO
+(LiDAR-inertial-visual) --- on one and the same sequence, Exp14 ``Basement~2'' of the
+Hilti-Oxford dataset~\cite{zhang2023hilti}. Our contribution is not a new algorithm but a
+controlled comparison: all four systems are bound to a common output contract (one
+trajectory file per run, in the ground-truth frame, in TUM format), evaluated with identical
+evo parameters, and each system is containerised so that its run can be reproduced. We
+report trajectory accuracy (ATE), local drift (RPE) and, for the LiDAR-based systems, the
+cloud-to-cloud distance between the reconstructed map and a terrestrial laser scan of the
+same building. We also report what the benchmark itself can and cannot resolve: the
+ground truth is accurate to 1--2\,cm, and at least one of the systems is not deterministic,
+which together bound the differences that may be interpreted at all.
+
+\section{Methods}
+\subsection{SLAM Approaches}
+\paragraph*{OpenMAVIS} \todo{Felix: theory of the visual-inertial approach.}
+
+\paragraph*{MOLA-LO}
+MOLA-LO~\cite{blanco2025mola} is a scan-to-model LiDAR odometry. Each incoming scan is
+deskewed, down-sampled with a voxel filter and registered against a local voxel map with an
+ICP-like optimiser that supports point-to-point and point-to-plane pairings and robust kernels.
+Following KISS-ICP~\cite{vizzo2023kiss}, the pairing threshold adapts to the observed motion;
+MOLA-LO extends this with a feedback controller that enlarges the search radius when the
+alignment quality drops, e.g.\ when passing through doors. A constant-velocity model provides
+the prior pose, and linear and angular velocities are estimated inside the ICP loop, so that
+deskewing is refined during registration. The map is stored as a view-based map (keyframes with
+raw scans), from which a dense point cloud is generated afterwards. We use the published
+\texttt{hilti2022} profile without changes: the IMU frame is the vehicle frame, the
+LiDAR--IMU extrinsics come from the dataset calibration, and the IMU is used for deskewing
+and the initial pitch and roll. Loop closure is not part of the odometry pipeline.
+
+\paragraph*{KISS-SLAM} \todo{Merle: theory of the LiDAR SLAM approach.}
+
+\paragraph*{SR-LIVO} \todo{Rainhard: theory of the LiDAR-inertial-visual approach.}
+
+\subsection{Dataset and Setup}
+\label{sec:setup}
+All systems run on sequence Exp14 ``Basement~2'' of the Hilti-Oxford dataset~\cite{zhang2023hilti}:
+a 73\,s handheld walk from a staircase through the basement of the Sheldonian Theatre,
+including door openings. The platform carries a Hesai PandarXT-32 LiDAR (10\,Hz), five grayscale
+fisheye cameras ($720\times540$, 40\,Hz) and a BMI085 IMU (400\,Hz). Exp14 is one of the
+additional sequences with a dense 6-DoF ground truth (GT) in the IMU frame: 689 poses at about
+10\,Hz over a 37.8\,m path, with gaps of up to 0.6\,s. The GT was obtained by registering each
+LiDAR scan against a terrestrial laser scan of the building and is accurate to 1--2\,cm~\cite{zhang2023hilti}.
+
+To make the systems comparable, every system writes one trajectory file per run in TUM format
+($t\;x\;y\;z\;q_x\;q_y\;q_z\;q_w$, Unix time in seconds) that contains the pose of the IMU frame.
+Systems that estimate the LiDAR pose are converted with $\mathbf{T}_{WI}=\mathbf{T}_{WL}\,\mathbf{T}_{LI}$
+using the extrinsics from the dataset calibration.
+
+All results reported here were produced on an AMD Ryzen~AI~9~365 (10~cores, 20~threads,
+22\,GB RAM) under Ubuntu~24.04.4~LTS with ROS~2 Jazzy, and all trajectory metrics with
+evo~1.31.1 (the version in the shared evaluation image). MOLA-LO is the binary release \texttt{ros-jazzy-mola-lidar-odometry}~3.3.0
+together with \texttt{mp2p\_icp}~3.0.0 and \texttt{mola\_state\_estimation}~3.0.2, driven by
+the published \texttt{hilti2022} profile; one pass over the 740 scans takes 35--46\,s, about
+47--62\,ms per scan including bag decoding, so the system runs well within real time on this
+machine. MOLA-LO parallelises its registration stage and is therefore not bit-reproducible:
+over five runs of Exp14 the per-pose positions differ by 41\,mm on average (95th percentile
+99\,mm, maximum 127\,mm), while the aggregated ATE RMSE stays inside a 3.5\,mm band
+($0.0986\pm0.0013$\,m). The comparison below uses the first run; that band bounds how much
+this choice matters. \todo{Felix, Merle, Rainhard: hardware and software versions of your
+systems, and the number of runs if your system is not deterministic.}
+
+\subsection{Evaluation Metrics}
+All trajectory metrics are computed with evo~\cite{grupp2017evo} using identical parameters.
+Estimated and GT poses are associated by timestamp with a maximum difference of 50\,ms, and
+each estimate is aligned to the GT with an SE(3) Umeyama alignment~\cite{umeyama1991} without
+scale. The absolute trajectory error (ATE)~\cite{sturm2012tum} is the translational distance
+between aligned and GT positions; we report RMSE, mean, median, maximum and standard deviation.
+The relative pose error (RPE)~\cite{sturm2012tum} measures local drift over pose pairs that are
+1\,m apart along the path, separately for translation and rotation. The 1\,m distance replaces
+the 100--800\,m segments of the KITTI benchmark, which do not fit a 37.8\,m path. We also report
+completeness, i.e.\ the share of GT timestamps with an associated estimate.
+
+For the dense LiDAR-based maps, each map is transformed with the same Umeyama alignment as its
+trajectory and compared to the terrestrial laser scan with a cloud-to-cloud distance in
+CloudCompare. No additional ICP refinement is applied, so global drift remains visible in the
+map error. OpenMAVIS produces only sparse feature points and is assessed qualitatively.
+
+\section{Results}
+\todo{Table: ATE and RPE statistics and completeness per system (comparison/kpi\_table.csv).}
+
+% Pflichtplot: Overlay aller Trajektorien (erzeugt mit common/eval/compare.py)
+% \begin{figure}[t]
+%   \centering
+%   \includegraphics[width=\columnwidth]{../comparison/overlay_xy.pdf}
+%   \caption{Top view of the estimated trajectories of all SLAM systems on Exp14 after SE(3)
+%   alignment, overlaid on the ground truth.}
+%   \label{fig:overlay}
+% \end{figure}
+\todo{Figure: overlay of all trajectories with GT (comparison/overlay\_xy.pdf).}
+\todo{Figure: at least one map or reconstruction per system, with cloud-to-cloud error colour scale.}
+
+\section{Discussion}
+\todo{Critical interpretation of system behaviour in the context of theory, differences between modalities.}
+
+Three properties of the benchmark limit the interpretation. First, the dense GT is accurate to
+only 1--2\,cm, so ATE differences below about 2\,cm do not support a ranking; the dataset authors
+recommend the sparse millimetre-accurate control points once errors approach 1\,cm~\cite{zhang2023hilti}.
+Second, the GT itself was produced by LiDAR registration against the laser scan, which may favour
+LiDAR-based systems over the visual-inertial one. Third, a single 73\,s sequence has few
+revisits, so loop closure hardly contributes and the results say little about generalisation.
+
+Our own runs add three observations that constrain how the numbers may be read. First,
+MOLA-LO is not bit-reproducible (Sec.~\ref{sec:setup}): single poses move by up to 127\,mm
+between runs, which is of the same order as the ATE itself, even though the aggregate RMSE
+varies by less than 4\,mm. Run-to-run scatter and ground-truth accuracy together put the
+resolution at which systems can be ranked at roughly 5\,cm, not at the millimetre precision
+the metrics are printed with. Second, ground truth and estimate are both sampled at 10\,Hz
+but in different phase, so the nearest-neighbour time difference is 50\,ms for every single
+pose --- exactly the association threshold. Association therefore collapses to 64\,\% (439
+of 689 poses) although the clocks do agree: fitting a continuous time lag, by interpolating
+the ground-truth orientations onto the estimate timestamps with SLERP and minimising the
+rotation error, puts the optimum at 0\,ms. A constant offset of $-50$\,ms restores 680
+associations and shifts the ATE RMSE by 6\,mm. Any benchmark that associates two regularly
+sampled trajectories with a threshold equal to half the sampling period is exposed to this
+artefact, and the drop in completeness is easily misread as a failure of the estimator.
+Third, a 1\,m RPE baseline is short enough that the rotation error dominates the
+translational component: with a mean rotation error of $2.4^\circ$, a 1\,m segment
+already accumulates $1\,\text{m}\cdot\sin 2.4^\circ \approx 4.2$\,cm. The 1\,m translational
+RPE of 0.070\,m is therefore not a drift rate; the same trajectory yields 2.0\,\%, 1.6\,\%
+and 1.4\,\% at baselines of 5, 10 and 20\,m. We report the 1\,m value for comparability
+across the four systems, but read drift off the longer baselines.
+
+\section{Conclusion}
+\todo{Summary of findings and outlook.}
+
+\bibliographystyle{IEEEtran}
+\bibliography{refs}
+
+\end{document}

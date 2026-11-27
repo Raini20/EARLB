@@ -1,1 +1,10 @@
+# Daten und große Dateien gehören nicht ins Repo (Download-Skripte stattdessen)
+data/
+*.bag
+*.e57
+*.pcd
+**/c2c/map_c2c.ply
+__pycache__/
+
+# Windows-Metadaten beim Kopieren aus Windows nach WSL
 *:Zone.Identifier
