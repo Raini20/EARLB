@@ -44,14 +44,14 @@ systems/sr_livo/
 ├─ patches/*.patch             # eigene Korrekturen an SR-LIVO (Begründung im Kopf jedes Patches)
 ├─ docker/Dockerfile           # Ubuntu 20.04, ROS Noetic, PCL 1.10, Ceres 1.14, OpenCV 4.2, Livox-Driver
 ├─ docker/run_container.sh     # Container mit WSLg-GUI starten
-├─ docker/Dockerfile.c2c       # kleines Python-Image für den Kartenvergleich (pye57, scipy)
+├─ docker/Dockerfile.c2c       # Image für die ältere C2C-Fassung (scripts/c2c_scan.py)
 ├─ scripts/download_data.sh    # Bag, GT, Kalibrierung von Hugging Face laden
 ├─ scripts/check_bag.sh        # Topics + PointCloud2-Felder prüfen
 ├─ scripts/run_exp14.sh        # Ein Lauf: roslaunch + rosbag play -> results/exp14/run_<n>/
 ├─ scripts/evaluate.sh         # evo: APE, RPE (1 m) nach Gruppenvorgabe
 ├─ scripts/plot_traj.py        # Einzelabbildung (Draufsicht + APE) und T_gt_est.txt
 ├─ scripts/export_map.py       # map.pcd -> map.ply (Voxel 5 cm)
-├─ scripts/c2c_scan.py         # Kartengenauigkeit: C2C map.ply -> Hilti-Laserscan
+├─ scripts/c2c_scan.py         # ältere C2C-Fassung (25,6 GB RAM), aktuell: common/eval/c2c_scan.py
 ├─ requirements.txt            # Python-Pakete für die Auswertung
 └─ results/exp14/run_<n>/      # traj_imu.tum, ape.zip, rpe_trans.zip, rpe_rot.zip, run.md, ...
 ```
@@ -63,7 +63,7 @@ systems/sr_livo/
 - ca. 20 GB freier Platz: Bag ~6 GB, Docker-Image ~6,2 GB, Referenz-Laserscan 5,4 GB (optional, nur für den Kartenvergleich)
 
 ```bash
-git clone -b Raini https://github.com/Raini20/EARLB.git ~/EARLB
+git clone https://github.com/Raini20/EARLB.git ~/EARLB
 cd ~/EARLB/systems/sr_livo
 chmod +x scripts/*.sh docker/*.sh
 ```
@@ -196,16 +196,17 @@ python3 scripts/export_map.py results/exp14/run_10          # -> map.ply (Voxel 
 
 ### Kartengenauigkeit (C2C zum Laserscan)
 
-Für alle LiDAR-Systeme gibt es dasselbe Skript allgemein unter `common/eval/c2c_scan.py`, im gemeinsamen Image `earlb-eval`. Es rechnet die Ausrichtung selbst und liefert für Run 10 identische Kennzahlen. Die SR-LIVO-Version hier bleibt für die Reproduktion von Run 10.
+Gerechnet wird mit dem gemeinsamen Skript `common/eval/c2c_scan.py` im Auswerte-Image `earlb-eval` (Bauen siehe `common/README.md`). Es braucht ~1 GB RAM und läuft damit auch auf dem Laptop. Aus der Repo-Wurzel:
 
 ```bash
-docker build --network=host -t c2c -f docker/Dockerfile.c2c docker/      # einmalig
 docker run --rm --user "$(id -u):$(id -g)" -e MPLCONFIGDIR=/tmp \
-    -v "$PWD":/work -w /work -v ~/data/hilti2022:/data:ro \
-    c2c python scripts/c2c_scan.py results/exp14/run_10 /data/laser_scans/sheldonian_full.e57
+    -v "$PWD":/repo -w /repo -v ~/data/hilti2022:/data:ro earlb-eval \
+    python common/eval/c2c_scan.py systems/sr_livo/results/exp14/run_10 /data/laser_scans/sheldonian_full.e57
 ```
 
-`c2c_scan.py` richtet `map.ply` nur mit `T_gt_est.txt` aus (dieselbe Transformation wie die Trajektorie, **kein ICP**). Dann berechnet es für jeden Kartenpunkt den Abstand zum nächsten Scanpunkt. Das ist dieselbe Größe wie CloudCompare *Cloud/Cloud Distance* ohne lokales Modell. Der Scan wird in voller Auflösung verwendet (285 Mio. Punkte, davon 111 Mio. in der Kartenbox + 2 m). Laufzeit auf dem PC ~1 min, Spitzen-RAM 25,6 GB (gemessen, der volle Scan wird auf einmal gelesen). Das geht nur auf dem PC (WSL ~31 GB), nicht auf dem Laptop. Ergebnisse in `results/exp14/run_10/c2c/`: `c2c.txt`, `c2c_hist.pdf/.png`, `c2c_topview.png` und `map_c2c.ply` (ausgerichtete Karte mit Abstand als Skalarfeld, nur lokal).
+`scripts/c2c_scan.py` (Image aus `docker/Dockerfile.c2c`) ist die ältere SR-LIVO-Fassung, mit der Run 10 zuerst auf dem PC gerechnet wurde. Sie liest den ganzen Scan auf einmal (25,6 GB RAM, nur PC) und liefert dieselben Kennzahlen.
+
+`c2c_scan.py` richtet `map.ply` nur mit `T_gt_est.txt` aus (dieselbe Transformation wie die Trajektorie, **kein ICP**). Dann berechnet es für jeden Kartenpunkt den Abstand zum nächsten Scanpunkt. Das ist dieselbe Größe wie CloudCompare *Cloud/Cloud Distance* ohne lokales Modell. Der Scan wird in voller Auflösung verwendet (285 Mio. Punkte, davon 111 Mio. in der Kartenbox + 2 m). Der Scan wird blockweise gelesen (`--chunk`, Standard 5 Mio. Punkte), für jeden Kartenpunkt bleibt das Minimum über alle Blöcke, also exakt derselbe nächste Nachbar. Auf dem Laptop (Docker mit `--memory=3g`): 5,5 min, Spitzen-RAM 0,9 GB, Kennzahlen identisch mit der ersten Rechnung auf dem PC. Ergebnisse in `results/exp14/run_10/c2c/`: `c2c.txt`, `c2c_hist.pdf/.png`, `c2c_topview.png` und `map_c2c.ply` (ausgerichtete Karte mit Abstand als Skalarfeld, nur lokal).
 
 **Ergebnis Run 10** (238 731 Kartenpunkte, Voxel 5 cm):
 
