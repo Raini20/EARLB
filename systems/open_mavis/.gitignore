@@ -1,8 +1,0 @@
-# Daten liegen außerhalb des Repos (D:/data/hilti2022 bzw. ~/data/hilti2022)
-data/
-*.bag
-euroc/
-*.png
-!results/exp14/**/*.png
-__pycache__/
-*.pyc

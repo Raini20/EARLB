@@ -1,5 +1,0 @@
-{
-  "files.watcherExclude": { "**/data/**": true },
-  "search.exclude": { "**/data/**": true },
-  "files.eol": "\n"
-}

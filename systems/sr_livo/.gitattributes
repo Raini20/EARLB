@@ -1,5 +1,0 @@
-# Skripte und Configs laufen in Linux/Docker -> immer LF, auch beim Auschecken unter Windows
-* text=auto eol=lf
-*.pdf binary
-*.zip binary
-*.png binary

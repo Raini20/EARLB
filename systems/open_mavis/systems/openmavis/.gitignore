@@ -1,8 +1,0 @@
-# Daten liegen in EARLB/data (Repo-Wurzel, ignoriert)
-data/
-*.bag
-euroc/
-*.png
-!results/exp14/**/*.png
-__pycache__/
-*.pyc
