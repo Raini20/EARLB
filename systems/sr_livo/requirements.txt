@@ -1,0 +1,6 @@
+# Auswertung (Python 3.8 im Noetic-Container, oder lokal in WSL)
+# numpy explizit: Ubuntu 20.04 liefert numpy 1.17, neueres matplotlib braucht >= 1.20 (sonst Absturz beim Plotten).
+# numpy 1.24 / matplotlib 3.7 sind die letzten Versionen für Python 3.8.
+evo
+numpy>=1.20,<1.25
+matplotlib>=3.5,<3.8

@@ -1,0 +1,25 @@
+diff --git a/Examples/Multi-Inertial/multi_inertial_euroc.cc b/Examples/Multi-Inertial/multi_inertial_euroc.cc
+index db56e9a..fbc3b21 100644
+--- a/Examples/Multi-Inertial/multi_inertial_euroc.cc
++++ b/Examples/Multi-Inertial/multi_inertial_euroc.cc
+@@ -28,6 +28,8 @@
+ #include<chrono>
+ #include <ctime>
+ #include <sstream>
++#include <cstdlib>
++#include <string>
+ 
+ #include <opencv2/core/core.hpp>
+ 
+@@ -138,7 +140,10 @@ int main(int argc, char **argv)
+     cout.precision(17);
+ 
+     // Create SLAM system. It initializes all system threads and gets ready to process frames.
+-    ORB_SLAM3::System SLAM(argv[1],argv[2],ORB_SLAM3::System::IMU_MULTI, true);
++    // EARLB-Patch: OPENMAVIS_VIEWER=0 startet ohne Pangolin-Fenster (schneller, headless)
++    const char* viewerEnv = std::getenv("OPENMAVIS_VIEWER");
++    const bool bUseViewer = !(viewerEnv && std::string(viewerEnv) == "0");
++    ORB_SLAM3::System SLAM(argv[1],argv[2],ORB_SLAM3::System::IMU_MULTI, bUseViewer);
+ 
+     cv::Mat imLeft, imRight, imSideLeft, imSideRight;
+     for (seq = 0; seq<num_seq; seq++)

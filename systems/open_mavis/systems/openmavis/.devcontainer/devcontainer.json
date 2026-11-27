@@ -1,0 +1,21 @@
+{
+  // VS Code: Ordner systems/openmavis öffnen -> F1 -> "Dev Containers: Reopen in Container"
+  // Im Container: Repo-Wurzel = /repo (für common/), Daten = /data
+  "name": "OpenMAVIS",
+  "build": { "dockerfile": "../docker/Dockerfile", "context": ".." },
+  "workspaceMount": "source=${localWorkspaceFolder}/../..,target=/repo,type=bind",
+  "workspaceFolder": "/repo/systems/openmavis",
+  // Daten: EARLB/data (exp14_basement_2.bag), per .gitignore ausgeschlossen
+  "mounts": ["source=${localWorkspaceFolder}/../../data,target=/data,type=bind"],
+  // Pangolin-Fenster über WSLg (Docker Desktop mit WSL2-Backend)
+  "runArgs": [
+    "-v", "/run/desktop/mnt/host/wslg/.X11-unix:/tmp/.X11-unix",
+    "-v", "/run/desktop/mnt/host/wslg:/mnt/wslg"
+  ],
+  "containerEnv": {
+    "DISPLAY": ":0",
+    "WAYLAND_DISPLAY": "wayland-0",
+    "XDG_RUNTIME_DIR": "/mnt/wslg/runtime-dir",
+    "LIBGL_ALWAYS_SOFTWARE": "1"
+  }
+}

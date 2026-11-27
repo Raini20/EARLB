@@ -1,0 +1,2903 @@
+image_width: 720
+image_height: 540
+camera_intrinsic: 351.314004   0.000000 367.852279
+  0.000000 351.491174 253.840214
+  0.000000   0.000000   1.000000
+camera_dist_coeffs: 0.000000 0.000000 0.000000 0.000000 0.000000
+R_imu_camera:  0.006708  0.002426  0.999975
+ 0.999926  0.010091 -0.006732
+-0.010107  0.999946 -0.002358
+t_imu_camera:  0.051264  0.045390 -0.013215
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[0m[INFO] [1795258283.721180414, 1649764528.502969552]: Wait more IMU measurements...[0m
+[0m[INFO] [1795258283.744348552, 1649764528.524591402]: Wait more IMU measurements...[0m
+[0m[INFO] [1795258283.753271520, 1649764528.534700531]: Wait more IMU measurements...[0m
+[0m[INFO] [1795258283.758202606, 1649764528.544825534]: Wait more IMU measurements...[0m
+[0m[INFO] [1795258283.780625614, 1649764528.567512913]: Wait more IMU measurements...[0m
+[0m[INFO] [1795258283.881826535, 1649764528.659990786]: Wait more IMU measurements...[0m
+[0m[INFO] [1795258283.997002840, 1649764528.774034938]: Wait more IMU measurements...[0m
+[0m[INFO] [1795258284.090557406, 1649764528.870715130]: Wait more IMU measurements...[0m
+[0m[INFO] [1795258284.183973479, 1649764528.967837961]: Wait more IMU measurements...[0m
+[0m[INFO] [1795258284.293873836, 1649764529.080780466]: Wait more IMU measurements...[0m
+[0m[INFO] [1795258284.385638639, 1649764529.156792515]: Wait more IMU measurements...[0m
+[0m[INFO] [1795258284.484532552, 1649764529.267429349]: Wait more IMU measurements...[0m
+[0m[INFO] [1795258284.591086471, 1649764529.374640858]: Wait more IMU measurements...[0m
+[0m[INFO] [1795258284.692037883, 1649764529.469895766]: Wait more IMU measurements...[0m
+[0m[INFO] [1795258284.785889964, 1649764529.567618114]: Wait more IMU measurements...[0m
+[0m[INFO] [1795258284.880877705, 1649764529.661849775]: Wait more IMU measurements...[0m
+[0m[INFO] [1795258284.985777724, 1649764529.767282494]: Wait more IMU measurements...[0m
+[0m[INFO] [1795258285.087355416, 1649764529.868389805]: Wait more IMU measurements...[0m
+[0m[INFO] [1795258285.181391738, 1649764529.962418152]: Wait more IMU measurements...[0m
+[0m[INFO] [1795258285.291655942, 1649764530.078133478]: Wait more IMU measurements...[0m
+[0m[INFO] [1795258285.395986423, 1649764530.178649551]: Wait more IMU measurements...[0m
+[0m[INFO] [1795258285.484499768, 1649764530.263198936]: Wait more IMU measurements...[0m
+[0m[INFO] [1795258285.582466193, 1649764530.360772910]: Wait more IMU measurements...[0m
+[0m[INFO] [1795258285.692145961, 1649764530.470264011]: Wait more IMU measurements...[0m
+[0m[INFO] [1795258285.784476803, 1649764530.567938148]: Wait more IMU measurements...[0m
+[0m[INFO] [1795258285.897724854, 1649764530.683330574]: Wait more IMU measurements...[0m
+[0m[INFO] [1795258285.984211122, 1649764530.769659629]: Wait more IMU measurements...[0m
+[0m[INFO] [1795258286.082520788, 1649764530.853025726]: Wait more IMU measurements...[0m
+[0m[INFO] [1795258286.181858616, 1649764530.962877947]: Wait more IMU measurements...[0m
+[0m[INFO] [1795258286.285419667, 1649764531.069371060]: Wait more IMU measurements...[0m
+[0m[INFO] [1795258286.423416025, 1649764531.203619508]: IMU Initialization Done.[0m
+init_gravity =  0.175599  0.167140 -9.807004
+init_bg =  0.001064 -0.000222 -0.000147
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 13
+[1;34m[0m[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 14
+[1;34m[0m[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 13
+[1;34m[0m[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 15
+[1;34m[0m[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 13
+[1;34m[0m[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 13
+[1;34m[0m[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 14
+[1;34m[0m[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 12
+[1;34m[0m[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 12
+[1;34m[0m[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 14
+[1;34m[0m[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 15
+[1;34m[0m[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 14
+[1;34m[0m[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 18
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 1
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 12
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 11
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 18
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 13
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 7
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 4
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 2
+[1;34m[0m[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 1
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[Optimization] Error : not enough keypoints selected in ct-icp !
+[Optimization] number_of_residuals : 0
+[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Save colored points to /work/sr_livo/output/rgb_map.pcd
+Total have 8659 points.
+Now write to: /work/sr_livo/output/rgb_map.pcd
+[31m[livo_node-3] escalating to SIGTERM[0m
+... logging to /root/.ros/log/7a459560-e599-11f1-8d0f-00155d594467/roslaunch-Rainis-Notebook-68.log
+Checking log directory for disk usage. This may take a while.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+]2;/work/sr_livo/launch/livo_hilti.launch
+[1mstarted roslaunch server http://Rainis-Notebook:36121/[0m
+
+SUMMARY
+========
+
+PARAMETERS
+ * /camera_parameter/camera_dist_coeffs: [0.0, 0.0, 0.0, 0...
+ * /camera_parameter/camera_intrinsic: [351.314003641932...
+ * /camera_parameter/image_height: 540
+ * /camera_parameter/image_width: 720
+ * /common/gravity_acc: [0.0, 0.0, 9.81]
+ * /common/image_topic: /alphasense/cam0/...
+ * /common/image_type: RGB8
+ * /common/imu_topic: /alphasense/imu
+ * /common/lidar_topic: /hesai/pandar
+ * /common/point_filter_num: 1
+ * /common/time_sync_en: False
+ * /debug_output: False
+ * /extrinsic_parameter/extrinsic_R_imu_camera: [0.006708021, 0.0...
+ * /extrinsic_parameter/extrinsic_R_imu_lidar: [0, -1, 0, -1, 0,...
+ * /extrinsic_parameter/extrinsic_enable: False
+ * /extrinsic_parameter/extrinsic_t_imu_camera: [0.05126355, 0.04...
+ * /extrinsic_parameter/extrinsic_t_imu_lidar: [-0.001, -0.00855...
+ * /icp_options/debug_print: True
+ * /icp_options/max_dist_to_plane_ct_icp: 0.3
+ * /icp_options/max_num_residuals: 600
+ * /icp_options/max_number_neighbors: 20
+ * /icp_options/min_num_residuals: 200
+ * /icp_options/min_number_neighbors: 20
+ * /icp_options/num_closest_neighbors: 1
+ * /icp_options/num_iters_icp: 5
+ * /icp_options/size_voxel_map: 1.0
+ * /icp_options/threshold_orientation_norm: 0.1
+ * /icp_options/threshold_translation_norm: 0.01
+ * /icp_options/voxel_neighborhood: 1
+ * /imu_parameter/acc_cov: 0.1
+ * /imu_parameter/b_acc_cov: 0.0001
+ * /imu_parameter/b_gyr_cov: 0.0001
+ * /imu_parameter/gyr_cov: 0.1
+ * /imu_parameter/time_diff_enable: False
+ * /lidar_parameter/N_SCANS: 32
+ * /lidar_parameter/SCAN_RATE: 10
+ * /lidar_parameter/blind: 0.5
+ * /lidar_parameter/det_range: 100.0
+ * /lidar_parameter/fov_degree: 360
+ * /lidar_parameter/lidar_type: 4
+ * /lidar_parameter/time_unit: 0
+ * /map_options/add_point_step: 1
+ * /map_options/max_num_points_in_voxel: 50
+ * /map_options/min_distance_points: 0.01
+ * /map_options/pub_point_minimum_views: 1
+ * /map_options/size_voxel_map: 0.1
+ * /odometry_options/distance_error_threshold: 100.0
+ * /odometry_options/init_num_frames: 20
+ * /odometry_options/initialization: INIT_IMU
+ * /odometry_options/max_distance: 2000.0
+ * /odometry_options/max_num_points_in_voxel: 20
+ * /odometry_options/min_distance_points: 0.15
+ * /odometry_options/motion_compensation: CONSTANT_VELOCITY
+ * /odometry_options/sample_voxel_size: 1.5
+ * /odometry_options/voxel_size: 0.1
+ * /output_path: /work/sr_livo/output
+ * /rosdistro: noetic
+ * /rosversion: 1.17.4
+ * /use_sim_time: True
+
+NODES
+  /
+    cam0_drop (topic_tools/drop)
+    livo_node (sr_livo/livo_node)
+
+auto-starting new master
+[1mprocess[master]: started with pid [77][0m
+[1mROS_MASTER_URI=http://localhost:11311[0m
+]2;/work/sr_livo/launch/livo_hilti.launch http://localhost:11311
+[1msetting /run_id to 7a459560-e599-11f1-8d0f-00155d594467[0m
+[1mprocess[rosout-1]: started with pid [87][0m
+started core service [/rosout]
+[1mprocess[cam0_drop-2]: started with pid [94][0m
+[1mprocess[livo_node-3]: started with pid [95][0m
+[livo_node-3] killing on exit
+[cam0_drop-2] killing on exit
+[rosout-1] killing on exit
+[master] killing on exit
+shutting down processing monitor...
+... shutting down processing monitor complete
+[1mdone[0m

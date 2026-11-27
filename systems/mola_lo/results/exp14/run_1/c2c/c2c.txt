@@ -1,0 +1,16 @@
+# C2C SLAM-Karte -> Hilti-Referenzscan (Nächster Nachbar, ohne lokales Modell, ohne ICP)
+karte          systems/mola_lo/results/exp14/run_1/map.ply  (986521 Punkte)
+ausrichtung    T_gt_est.txt (SE(3)-Umeyama wie evo, ohne Skalierung)
+scan           sheldonian_full.e57  (285455240 Punkte, volle Auflösung, Header-Pose angewendet)
+scan_in_box    108137409  (Kartenbox + 2.0 m)
+mean_m         0.0647
+median_m       0.0363
+rms_m          0.1308
+std_m          0.1137
+p90_m          0.1345
+p95_m          0.1792
+max_m          2.0000  (gekappt)
+anteil_<5cm    63.5 %
+anteil_<10cm    83.1 %
+anteil_<20cm    95.8 %
+ueber_2m      506
