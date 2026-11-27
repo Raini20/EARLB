@@ -1,0 +1,1014 @@
+image_width: 720
+image_height: 540
+camera_intrinsic: 351.314004   0.000000 367.852279
+  0.000000 351.491174 253.840214
+  0.000000   0.000000   1.000000
+camera_dist_coeffs: 0.000000 0.000000 0.000000 0.000000 0.000000
+R_imu_camera:  0.006708  0.002426  0.999975
+ 0.999926  0.010091 -0.006732
+-0.010107  0.999946 -0.002358
+t_imu_camera:  0.051264  0.045390 -0.013215
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[0m[INFO] [1795385737.947037958, 1649764528.275527183]: Wait more IMU measurements...[0m
+[0m[INFO] [1795385737.960847911, 1649764528.280635979]: Wait more IMU measurements...[0m
+[0m[INFO] [1795385738.091580107, 1649764528.349373187]: Wait more IMU measurements...[0m
+[0m[INFO] [1795385738.299018016, 1649764528.449280641]: Wait more IMU measurements...[0m
+[0m[INFO] [1795385738.494390602, 1649764528.550631744]: Wait more IMU measurements...[0m
+[0m[INFO] [1795385738.694401835, 1649764528.650475959]: Wait more IMU measurements...[0m
+[0m[INFO] [1795385738.900456846, 1649764528.753346661]: Wait more IMU measurements...[0m
+[0m[INFO] [1795385739.088216129, 1649764528.847559862]: Wait more IMU measurements...[0m
+[0m[INFO] [1795385739.295613027, 1649764528.950893431]: Wait more IMU measurements...[0m
+[0m[INFO] [1795385739.500971981, 1649764529.053691698]: Wait more IMU measurements...[0m
+[0m[INFO] [1795385739.694282998, 1649764529.150366265]: Wait more IMU measurements...[0m
+[0m[INFO] [1795385739.897148055, 1649764529.251677889]: Wait more IMU measurements...[0m
+[0m[INFO] [1795385740.090477181, 1649764529.348719224]: Wait more IMU measurements...[0m
+[0m[INFO] [1795385740.294993429, 1649764529.450895456]: Wait more IMU measurements...[0m
+[0m[INFO] [1795385740.492887732, 1649764529.550038102]: Wait more IMU measurements...[0m
+[0m[INFO] [1795385740.696962633, 1649764529.651693976]: Wait more IMU measurements...[0m
+[0m[INFO] [1795385740.893449210, 1649764529.750415581]: Wait more IMU measurements...[0m
+[0m[INFO] [1795385741.094138260, 1649764529.850622992]: Wait more IMU measurements...[0m
+[0m[INFO] [1795385741.295348486, 1649764529.950906684]: Wait more IMU measurements...[0m
+[0m[INFO] [1795385741.492834550, 1649764530.049835188]: Wait more IMU measurements...[0m
+[0m[INFO] [1795385741.690863407, 1649764530.148914909]: Wait more IMU measurements...[0m
+[0m[INFO] [1795385741.894463800, 1649764530.250556629]: Wait more IMU measurements...[0m
+[0m[INFO] [1795385742.094582809, 1649764530.350636006]: Wait more IMU measurements...[0m
+[0m[INFO] [1795385742.291019538, 1649764530.448996797]: Wait more IMU measurements...[0m
+[0m[INFO] [1795385742.492415616, 1649764530.549482309]: Wait more IMU measurements...[0m
+[0m[INFO] [1795385742.694239330, 1649764530.650273250]: Wait more IMU measurements...[0m
+[0m[INFO] [1795385743.134853982, 1649764530.870333186]: Wait more IMU measurements...[0m
+[0m[INFO] [1795385743.162004499, 1649764530.881071579]: Wait more IMU measurements...[0m
+[0m[INFO] [1795385743.302939638, 1649764530.954862989]: Wait more IMU measurements...[0m
+[0m[INFO] [1795385743.503002134, 1649764531.054538396]: Wait more IMU measurements...[0m
+[0m[INFO] [1795385743.711037324, 1649764531.160392548]: IMU Initialization Done.[0m
+init_gravity =  0.175582  0.167170 -9.807004
+init_bg =  0.001059 -0.000222 -0.000149
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;31mCatching a cv exception: OpenCV(4.2.0) ../modules/calib3d/src/calibration.cpp:1171: error: (-2:Unspecified error) in function 'void cvFindExtrinsicCameraParams2(const CvMat*, const CvMat*, const CvMat*, const CvMat*, CvMat*, CvMat*, int)'
+> DLT algorithm needs at least 6 points for pose estimation from 3D-2D point correspondences. (expected: 'count >= 6'), where
+>     'count' is 5
+> must be greater than or equal to
+>     '6' is 6
+
+[0m[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;31mCatching a cv exception: OpenCV(4.2.0) ../modules/calib3d/src/calibration.cpp:1171: error: (-2:Unspecified error) in function 'void cvFindExtrinsicCameraParams2(const CvMat*, const CvMat*, const CvMat*, const CvMat*, CvMat*, CvMat*, int)'
+> DLT algorithm needs at least 6 points for pose estimation from 3D-2D point correspondences. (expected: 'count >= 6'), where
+>     'count' is 5
+> must be greater than or equal to
+>     '6' is 6
+
+[0m[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;31mCatching a cv exception: OpenCV(4.2.0) ../modules/calib3d/src/calibration.cpp:1171: error: (-2:Unspecified error) in function 'void cvFindExtrinsicCameraParams2(const CvMat*, const CvMat*, const CvMat*, const CvMat*, CvMat*, CvMat*, int)'
+> DLT algorithm needs at least 6 points for pose estimation from 3D-2D point correspondences. (expected: 'count >= 6'), where
+>     'count' is 5
+> must be greater than or equal to
+>     '6' is 6
+
+[0m[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[1;31mCatching a cv exception: OpenCV(4.2.0) ../modules/calib3d/src/calibration.cpp:1171: error: (-2:Unspecified error) in function 'void cvFindExtrinsicCameraParams2(const CvMat*, const CvMat*, const CvMat*, const CvMat*, CvMat*, CvMat*, int)'
+> DLT algorithm needs at least 6 points for pose estimation from 3D-2D point correspondences. (expected: 'count >= 6'), where
+>     'count' is 5
+> must be greater than or equal to
+>     '6' is 6
+
+[0m[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;31mCatching a cv exception: OpenCV(4.2.0) ../modules/calib3d/src/calibration.cpp:1171: error: (-2:Unspecified error) in function 'void cvFindExtrinsicCameraParams2(const CvMat*, const CvMat*, const CvMat*, const CvMat*, CvMat*, CvMat*, int)'
+> DLT algorithm needs at least 6 points for pose estimation from 3D-2D point correspondences. (expected: 'count >= 6'), where
+>     'count' is 5
+> must be greater than or equal to
+>     '6' is 6
+
+[0m[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;31mCatching a cv exception: OpenCV(4.2.0) ../modules/calib3d/src/calibration.cpp:1171: error: (-2:Unspecified error) in function 'void cvFindExtrinsicCameraParams2(const CvMat*, const CvMat*, const CvMat*, const CvMat*, CvMat*, CvMat*, int)'
+> DLT algorithm needs at least 6 points for pose estimation from 3D-2D point correspondences. (expected: 'count >= 6'), where
+>     'count' is 5
+> must be greater than or equal to
+>     '6' is 6
+
+[0m[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;31mCatching a cv exception: OpenCV(4.2.0) ../modules/calib3d/src/calibration.cpp:1171: error: (-2:Unspecified error) in function 'void cvFindExtrinsicCameraParams2(const CvMat*, const CvMat*, const CvMat*, const CvMat*, CvMat*, CvMat*, int)'
+> DLT algorithm needs at least 6 points for pose estimation from 3D-2D point correspondences. (expected: 'count >= 6'), where
+>     'count' is 5
+> must be greater than or equal to
+>     '6' is 6
+
+[0m[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;31mCatching a cv exception: OpenCV(4.2.0) ../modules/calib3d/src/calibration.cpp:1171: error: (-2:Unspecified error) in function 'void cvFindExtrinsicCameraParams2(const CvMat*, const CvMat*, const CvMat*, const CvMat*, CvMat*, CvMat*, int)'
+> DLT algorithm needs at least 6 points for pose estimation from 3D-2D point correspondences. (expected: 'count >= 6'), where
+>     'count' is 5
+> must be greater than or equal to
+>     '6' is 6
+
+[0m[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;31mCatching a cv exception: OpenCV(4.2.0) ../modules/calib3d/src/calibration.cpp:1171: error: (-2:Unspecified error) in function 'void cvFindExtrinsicCameraParams2(const CvMat*, const CvMat*, const CvMat*, const CvMat*, CvMat*, CvMat*, int)'
+> DLT algorithm needs at least 6 points for pose estimation from 3D-2D point correspondences. (expected: 'count >= 6'), where
+>     'count' is 5
+> must be greater than or equal to
+>     '6' is 6
+
+[0m[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[1;31mCatching a cv exception: OpenCV(4.2.0) ../modules/calib3d/src/calibration.cpp:1171: error: (-2:Unspecified error) in function 'void cvFindExtrinsicCameraParams2(const CvMat*, const CvMat*, const CvMat*, const CvMat*, CvMat*, CvMat*, int)'
+> DLT algorithm needs at least 6 points for pose estimation from 3D-2D point correspondences. (expected: 'count >= 6'), where
+>     'count' is 5
+> must be greater than or equal to
+>     '6' is 6
+
+[0m[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[1;31mCatching a cv exception: OpenCV(4.2.0) ../modules/calib3d/src/calibration.cpp:1171: error: (-2:Unspecified error) in function 'void cvFindExtrinsicCameraParams2(const CvMat*, const CvMat*, const CvMat*, const CvMat*, CvMat*, CvMat*, int)'
+> DLT algorithm needs at least 6 points for pose estimation from 3D-2D point correspondences. (expected: 'count >= 6'), where
+>     'count' is 5
+> must be greater than or equal to
+>     '6' is 6
+
+[0m[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[1;34m[0m[1;31mCatching a cv exception: OpenCV(4.2.0) ../modules/calib3d/src/calibration.cpp:1171: error: (-2:Unspecified error) in function 'void cvFindExtrinsicCameraParams2(const CvMat*, const CvMat*, const CvMat*, const CvMat*, CvMat*, CvMat*, int)'
+> DLT algorithm needs at least 6 points for pose estimation from 3D-2D point correspondences. (expected: 'count >= 6'), where
+>     'count' is 5
+> must be greater than or equal to
+>     '6' is 6
+
+[0m[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;31mCatching a cv exception: OpenCV(4.2.0) ../modules/calib3d/src/calibration.cpp:1171: error: (-2:Unspecified error) in function 'void cvFindExtrinsicCameraParams2(const CvMat*, const CvMat*, const CvMat*, const CvMat*, CvMat*, CvMat*, int)'
+> DLT algorithm needs at least 6 points for pose estimation from 3D-2D point correspondences. (expected: 'count >= 6'), where
+>     'count' is 5
+> must be greater than or equal to
+>     '6' is 6
+
+[0m[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+[1;31mCatching a cv exception: OpenCV(4.2.0) ../modules/calib3d/src/calibration.cpp:1171: error: (-2:Unspecified error) in function 'void cvFindExtrinsicCameraParams2(const CvMat*, const CvMat*, const CvMat*, const CvMat*, CvMat*, CvMat*, int)'
+> DLT algorithm needs at least 6 points for pose estimation from 3D-2D point correspondences. (expected: 'count >= 6'), where
+>     'count' is 5
+> must be greater than or equal to
+>     '6' is 6
+
+[0m[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;31mCatching a cv exception: OpenCV(4.2.0) ../modules/calib3d/src/calibration.cpp:1171: error: (-2:Unspecified error) in function 'void cvFindExtrinsicCameraParams2(const CvMat*, const CvMat*, const CvMat*, const CvMat*, CvMat*, CvMat*, int)'
+> DLT algorithm needs at least 6 points for pose estimation from 3D-2D point correspondences. (expected: 'count >= 6'), where
+>     'count' is 5
+> must be greater than or equal to
+>     '6' is 6
+
+[0m[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;31mCatching a cv exception: OpenCV(4.2.0) ../modules/calib3d/src/calibration.cpp:1171: error: (-2:Unspecified error) in function 'void cvFindExtrinsicCameraParams2(const CvMat*, const CvMat*, const CvMat*, const CvMat*, CvMat*, CvMat*, int)'
+> DLT algorithm needs at least 6 points for pose estimation from 3D-2D point correspondences. (expected: 'count >= 6'), where
+>     'count' is 5
+> must be greater than or equal to
+>     '6' is 6
+
+[0m[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[1;34m[0m[1;34m[0m[1;34m[0m[1;31mCatching a cv exception: OpenCV(4.2.0) ../modules/calib3d/src/calibration.cpp:1171: error: (-2:Unspecified error) in function 'void cvFindExtrinsicCameraParams2(const CvMat*, const CvMat*, const CvMat*, const CvMat*, CvMat*, CvMat*, int)'
+> DLT algorithm needs at least 6 points for pose estimation from 3D-2D point correspondences. (expected: 'count >= 6'), where
+>     'count' is 5
+> must be greater than or equal to
+>     '6' is 6
+
+[0m[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;31mCatching a cv exception: OpenCV(4.2.0) ../modules/calib3d/src/calibration.cpp:1171: error: (-2:Unspecified error) in function 'void cvFindExtrinsicCameraParams2(const CvMat*, const CvMat*, const CvMat*, const CvMat*, CvMat*, CvMat*, int)'
+> DLT algorithm needs at least 6 points for pose estimation from 3D-2D point correspondences. (expected: 'count >= 6'), where
+>     'count' is 5
+> must be greater than or equal to
+>     '6' is 6
+
+[0m[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;31mCatching a cv exception: OpenCV(4.2.0) ../modules/calib3d/src/calibration.cpp:1171: error: (-2:Unspecified error) in function 'void cvFindExtrinsicCameraParams2(const CvMat*, const CvMat*, const CvMat*, const CvMat*, CvMat*, CvMat*, int)'
+> DLT algorithm needs at least 6 points for pose estimation from 3D-2D point correspondences. (expected: 'count >= 6'), where
+>     'count' is 5
+> must be greater than or equal to
+>     '6' is 6
+
+[0m[1;31m****** Remove_outlier_using_ransac_pnp error*****[0m
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+Failed to find match for field 'intensity'.
+[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0m[1;34m[0mSave colored points to /work/sr_livo/output/rgb_map.pcd
+Total have 1156210 points.
+Now write to: /work/sr_livo/output/rgb_map.pcd
+[31m[livo_node-3] escalating to SIGTERM[0m
+... logging to /root/.ros/log/3ac44dbc-e6c2-11f1-b24b-00155d594cab/roslaunch-Rainis-Notebook-236.log
+Checking log directory for disk usage. This may take a while.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+]2;/work/sr_livo/launch/livo_hilti.launch
+[1mstarted roslaunch server http://Rainis-Notebook:35757/[0m
+
+SUMMARY
+========
+
+PARAMETERS
+ * /camera_parameter/camera_dist_coeffs: [0.0, 0.0, 0.0, 0...
+ * /camera_parameter/camera_intrinsic: [351.314003641932...
+ * /camera_parameter/image_height: 540
+ * /camera_parameter/image_width: 720
+ * /common/gravity_acc: [0.0, 0.0, 9.81]
+ * /common/image_topic: /alphasense/cam0/...
+ * /common/image_type: RGB8
+ * /common/imu_topic: /alphasense/imu
+ * /common/lidar_topic: /hesai/pandar
+ * /common/point_filter_num: 1
+ * /common/time_sync_en: False
+ * /debug_output: False
+ * /extrinsic_parameter/extrinsic_R_imu_camera: [0.006708021, 0.0...
+ * /extrinsic_parameter/extrinsic_R_imu_lidar: [0, -1, 0, -1, 0,...
+ * /extrinsic_parameter/extrinsic_enable: False
+ * /extrinsic_parameter/extrinsic_t_imu_camera: [0.05126355, 0.04...
+ * /extrinsic_parameter/extrinsic_t_imu_lidar: [-0.001, -0.00855...
+ * /icp_options/debug_print: True
+ * /icp_options/max_dist_to_plane_icp: 0.3
+ * /icp_options/max_num_residuals: 600
+ * /icp_options/max_number_neighbors: 20
+ * /icp_options/min_num_residuals: 200
+ * /icp_options/min_number_neighbors: 20
+ * /icp_options/num_closest_neighbors: 1
+ * /icp_options/num_iters_icp: 5
+ * /icp_options/size_voxel_map: 0.5
+ * /icp_options/threshold_orientation_norm: 0.1
+ * /icp_options/threshold_translation_norm: 0.01
+ * /icp_options/voxel_neighborhood: 1
+ * /imu_parameter/acc_cov: 0.1
+ * /imu_parameter/b_acc_cov: 0.0001
+ * /imu_parameter/b_gyr_cov: 0.0001
+ * /imu_parameter/gyr_cov: 0.1
+ * /imu_parameter/time_diff_enable: False
+ * /lidar_parameter/N_SCANS: 32
+ * /lidar_parameter/SCAN_RATE: 10
+ * /lidar_parameter/blind: 0.5
+ * /lidar_parameter/det_range: 100.0
+ * /lidar_parameter/fov_degree: 360
+ * /lidar_parameter/lidar_type: 4
+ * /lidar_parameter/time_unit: 0
+ * /map_options/add_point_step: 1
+ * /map_options/max_num_points_in_voxel: 50
+ * /map_options/min_distance_points: 0.01
+ * /map_options/pub_point_minimum_views: 1
+ * /map_options/size_voxel_map: 0.1
+ * /odometry_options/distance_error_threshold: 100.0
+ * /odometry_options/init_num_frames: 20
+ * /odometry_options/init_sample_voxel_size: 0.5
+ * /odometry_options/init_voxel_size: 0.1
+ * /odometry_options/initialization: INIT_IMU
+ * /odometry_options/max_distance: 2000.0
+ * /odometry_options/max_num_points_in_voxel: 20
+ * /odometry_options/min_distance_points: 0.05
+ * /odometry_options/motion_compensation: CONSTANT_VELOCITY
+ * /odometry_options/sample_voxel_size: 0.5
+ * /odometry_options/voxel_size: 0.1
+ * /output_path: /work/sr_livo/output
+ * /rosdistro: noetic
+ * /rosversion: 1.17.4
+ * /use_sim_time: True
+
+NODES
+  /
+    cam0_drop (topic_tools/drop)
+    livo_node (sr_livo/livo_node)
+
+auto-starting new master
+[1mprocess[master]: started with pid [260][0m
+[1mROS_MASTER_URI=http://localhost:11311[0m
+]2;/work/sr_livo/launch/livo_hilti.launch http://localhost:11311
+[1msetting /run_id to 3ac44dbc-e6c2-11f1-b24b-00155d594cab[0m
+[1mprocess[rosout-1]: started with pid [285][0m
+started core service [/rosout]
+[1mprocess[cam0_drop-2]: started with pid [292][0m
+[1mprocess[livo_node-3]: started with pid [293][0m
+[livo_node-3] killing on exit
+[cam0_drop-2] killing on exit
+[rosout-1] killing on exit
+[master] killing on exit
+shutting down processing monitor...
+... shutting down processing monitor complete
+[1mdone[0m

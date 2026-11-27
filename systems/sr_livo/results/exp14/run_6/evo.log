@@ -1,0 +1,78 @@
+WARNUNG: nutze Hilti-GT direkt (/data/exp14_basement_2_imu.txt)
+[93mInitialized new /root/.evo/settings.json[39m
+--------------------------------------------------------------------------------
+Loaded 707 stamps and poses from: /work/sr_livo/results/exp14/run_6/traj_imu.tum
+Loaded 689 stamps and poses from: /data/exp14_basement_2_imu.txt
+--------------------------------------------------------------------------------
+Found 657 of max. 689 possible matching timestamps between...
+	reference
+and:	/work/sr_livo/results/exp14/run_6/traj_imu.tum
+..with max. time diff.: 0.05 (s) and time offset: 0.0 (s).
+--------------------------------------------------------------------------------
+Aligning /work/sr_livo/results/exp14/run_6/traj_imu.tum to reference.
+Aligning using Umeyama's method...
+Rotation of alignment:
+[[-0.10186451  0.99171804 -0.07822374]
+ [ 0.94248304  0.12137272  0.31143921]
+ [ 0.31835411 -0.04199995 -0.947041  ]]
+Translation of alignment:
+[123.62117889  17.79662412  -2.51954242]
+Scale correction: 1.0
+--------------------------------------------------------------------------------
+name:	traj_imu
+infos:
+	duration (s)	70.5923810005188
+	nr. of poses	657
+	path length (m)	68.01114726598276
+	pos_end (m)	[97.01951566 25.27922368 -1.82441879]
+	pos_start (m)	[123.62110699  17.79687387  -2.52023256]
+	t_end (s)	1649764601.838187
+	t_start (s)	1649764531.245806
+--------------------------------------------------------------------------------
+name:	exp14_basement_2_imu
+infos:
+	duration (s)	73.79330492019653
+	nr. of poses	689
+	path length (m)	37.80325019223913
+	pos_end (m)	[101.3035297   17.05041674  -0.55533465]
+	pos_start (m)	[122.6   17.13  -1.09]
+	t_end (s)	1649764601.956774
+	t_start (s)	1649764528.163469
+--------------------------------------------------------------------------------
+Plots saved to /work/sr_livo/results/exp14/run_6/traj_xy.pdf
+APE w.r.t. translation part (m)
+(with SE(3) Umeyama alignment)
+
+       max	13.455570
+      mean	2.363273
+    median	1.186362
+       min	0.427463
+      rmse	3.775253
+       sse	9363.915080
+       std	2.944058
+
+RPE w.r.t. translation part (m)
+for delta = 1.0 (m) using consecutive pairs
+(with SE(3) Umeyama alignment)
+
+       max	1.501568
+      mean	0.544608
+    median	0.110656
+       min	0.005320
+      rmse	0.781587
+       sse	35.430953
+       std	0.560607
+
+RPE w.r.t. rotation angle in degrees (deg)
+for delta = 1.0 (m) using consecutive pairs
+(with SE(3) Umeyama alignment)
+
+       max	10.031925
+      mean	2.228846
+    median	1.279235
+       min	0.170756
+      rmse	3.013797
+       sse	526.812417
+       std	2.028600
+
+Ergebnisse in /work/sr_livo/results/exp14/run_6
