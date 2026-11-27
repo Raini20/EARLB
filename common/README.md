@@ -68,7 +68,7 @@ Wenige GT-Zuordnungen (weit unter ~650 von 689) deuten auf einen Zeitversatz hin
 
 ### 4. Kartengenauigkeit (nur dichte LiDAR-Karten)
 
-Braucht den Laserscan (`sheldonian_full.e57`, 5,4 GB, Download siehe `systems/sr_livo/scripts/download_data.sh --scan`) und **~26 GB RAM**. Auf einem Laptop mit 16 GB läuft das nicht, dann jemanden mit mehr RAM fragen.
+Braucht den Laserscan (`sheldonian_full.e57`, 5,4 GB, Download siehe `systems/sr_livo/scripts/download_data.sh --scan`). Der Scan wird blockweise gelesen (`--chunk`, Standard 5 Mio. Punkte): Pro Block entsteht ein KD-Baum über die Scanpunkte in der Kartenbox, und für jeden Kartenpunkt wird das Minimum über alle Blöcke mitgeführt. Das ergibt denselben exakten nächsten Nachbarn wie ein Baum über den ganzen Scan, braucht aber nur **~1 GB RAM** (gemessen 0,9 GB) statt ~26 GB. Damit läuft es auch auf den Laptops: SR-LIVO Run 10 auf dem Laptop (Ryzen 7 7735U, Docker mit `--memory=3g`) ~6 min, Kennzahlen identisch mit der früheren Rechnung über den ganzen Scan. Ein größeres `--chunk` ist schneller und braucht mehr RAM, ein kleineres umgekehrt. Das Ergebnis bleibt gleich.
 
 ```bash
 $EVAL python common/eval/c2c_scan.py systems/<system>/results/exp14/run_<n> /data/laser_scans/sheldonian_full.e57

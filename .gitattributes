@@ -1,0 +1,2 @@
+# Zeilenenden im Repo immer LF. Windows-Checkouts hatten CRLF eingeschleppt, bash und patch scheitern daran.
+* text=auto eol=lf
