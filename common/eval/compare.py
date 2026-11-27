@@ -113,7 +113,7 @@ def main():
         st = {"name": name, "person": person, "runs": sorted(runs), "notes": []}
         status.append(st)
         if not runs:
-            st["state"] = "offen: keine traj_imu.tum unter " + os.path.relpath(sys_dir, ROOT) + "/run_<n>/"
+            st["state"] = "offen: keine traj_imu.tum unter " + os.path.relpath(sys_dir, ROOT).replace(os.sep, "/") + "/run_<n>/"
             continue
 
         sel, how, missing = pick_runs(sys_dir, runs)
@@ -187,7 +187,7 @@ def write_tables(rows):
         w = csv.DictWriter(f, fieldnames=cols)
         w.writeheader()
         w.writerows(rows)
-    with open(os.path.join(OUT, "kpi_table.md"), "w", encoding="utf-8") as f:
+    with open(os.path.join(OUT, "kpi_table.md"), "w", encoding="utf-8", newline="\n") as f:
         f.write("| " + " | ".join(cols) + " |\n| " + " | ".join("---" for _ in cols) + " |\n")
         for r in rows:
             f.write("| " + " | ".join(r[c] or "" for c in cols) + " |\n")
@@ -254,7 +254,7 @@ def write_figures(curves):
 
 def write_status(status, rows):
     done = sum(1 for s in status if s.get("state", "").startswith("ausgewertet"))
-    with open(os.path.join(OUT, "status.md"), "w", encoding="utf-8") as f:
+    with open(os.path.join(OUT, "status.md"), "w", encoding="utf-8", newline="\n") as f:
         f.write(f"# Vergleich Exp14 – Stand\n\nErzeugt {datetime.date.today().isoformat()} mit "
                 f"`common/eval/compare.py` auf Commit `{git_head()}`. **{done} von {len(status)} Systemen ausgewertet.**\n\n")
         f.write("| System | Person | Läufe gefunden | Stand |\n| --- | --- | --- | --- |\n")
