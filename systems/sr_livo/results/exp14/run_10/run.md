@@ -59,3 +59,9 @@ Modell. Ergebnisse in `c2c/`.
 Langer Ausläufer (1 646 Punkte > 2 m): 41 % der Punkte > 20 cm liegen im westlichen Keller, wo der Scan ~30-mal
 dünner ist (fehlende Referenz). Weitere Punkte direkt an der Trajektorie, vermutlich Personen/Dynamik. Details und
 Draufsicht im README (Abschnitt „Kartengenauigkeit“) und in `c2c/c2c_topview.png`.
+
+### Nachtrag 2026-11-27: Reproduktion auf dem Laptop
+
+Mit `common/eval/c2c_scan.py` (Scan blockweise gelesen, Minimum je Kartenpunkt über alle Blöcke) auf dem Laptop
+gerechnet, Docker mit `--memory=3g`: 5,5 min, Spitzen-RAM 0,9 GB statt 25,6 GB. Alle Kennzahlen in `c2c.txt` ab
+`scan_in_box` identisch (110 862 883 Scanpunkte in der Box). Die Dateien in `c2c/` stammen weiter vom PC-Lauf.
